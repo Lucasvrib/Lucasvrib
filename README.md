@@ -1,12 +1,12 @@
 <h2 align="left">Bem-vindo ao meu perfil! 👋</h2>
 
-###
+### Sobre mim
 
-<p align="left">Sobre mim<br>🎓 Formação: Cursando Análise e Desenvolvimento de Sistemas.<br>💼 Experiência: Vivência profissional no meio administrativo, com foco em rotinas de BackOffice e análise de orçamentos.<br>📊 Habilidades em BI: Desenvolvimento de dashboards usando Power BI.<br>🛠 Manipulação de Dados: Extração, transformação e limpeza de dados para apoiar decisões estratégicas.<br>🐍 Programação: Automatização de tarefas e processos utilizando Python.</p>
+<p align="left">🎓 Formação: Cursando Análise e Desenvolvimento de Sistemas.<br>💼 Experiência: Vivência profissional no meio administrativo, com foco em rotinas de BackOffice e análise de orçamentos.<br>📊 Habilidades em BI: Desenvolvimento de dashboards usando Power BI.<br>🛠 Manipulação de Dados: Extração, transformação e limpeza de dados para apoiar decisões estratégicas.<br>🐍 Programação: Automatização de tarefas e processos utilizando Python.</p>
 
-###
+### Habilidades Técnicas
 
-<p align="left">Habilidades Técnicas<br>📊 Power BI: Desenvolvimento de dashboards interativos e informativos.<br>🐍 Python: Criação de scripts para automação de processos e análise de dados.<br>🗂️ Excel: Análise de dados, criação de planilhas e elaboração de orçamentos.<br>🌐 SQL: Consultas e manipulação de bases de dados.<br>⛏️ ETL (Extração, Transformação e Carga de Dados): Processos de limpeza e transformação de dados.</p>
+<p align="left">📊 Power BI: Desenvolvimento de dashboards interativos e informativos.<br>🐍 Python: Criação de scripts para automação de processos e análise de dados.<br>🗂️ Excel: Análise de dados, criação de planilhas e elaboração de orçamentos.<br>🌐 SQL: Consultas e manipulação de bases de dados.<br>⛏️ ETL (Extração, Transformação e Carga de Dados): Processos de limpeza e transformação de dados.</p>
 
 ###
 
@@ -28,12 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
 </div>
 
-###
+### Contatos
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="https://www.linkedin.com/in/lucasvrib/"  />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="lucasvrib@gmail.com"  />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="[instagram logo](https://www.instagram.com/lucasvrib/)"  />
 </div>
 
 ###
