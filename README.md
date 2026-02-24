@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-<p align="left">🎓 Formação: Cursando Análise e Desenvolvimento de Sistemas.<br>💼 Experiência: Vivência profissional no meio administrativo, com foco em rotinas de BackOffice e análise de orçamentos.<br>📊 Habilidades em BI: Desenvolvimento de dashboards usando Power BI.<br>🛠 Manipulação de Dados: Extração, transformação e limpeza de dados para apoiar decisões estratégicas.<br>🐍 Programação: Automatização de tarefas e processos utilizando Python.</p>
+<p align="left">🎓 Formação: Análise e Desenvolvimento de Sistemas.<br>💼 Experiência: Vivência profissional no meio administrativo, com foco em rotinas de BackOffice e análise de orçamentos.<br>📊 Habilidades em BI: Desenvolvimento de dashboards usando Power BI.<br>🛠 Manipulação de Dados: Extração, transformação e limpeza de dados para apoiar decisões estratégicas.<br>🐍 Programação: Automatização de tarefas e processos utilizando Python.</p>
 
 ### Habilidades Técnicas
 
@@ -33,8 +33,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="https://www.linkedin.com/in/lucasvrib/"  />
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="lucasvrib@gmail.com"  />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="[instagram logo](https://www.instagram.com/lucasvrib/)"  />
-</div>
+  </div>
 
 ###
 
