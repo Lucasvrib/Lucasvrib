@@ -13,11 +13,11 @@ Trabalho com **análise, engenharia e automação de dados** no setor de saúde 
 
 ### 🚀 Projeto em destaque: Central RESSUS
 
-Hub de dados e operação do setor de Ressarcimento ao SUS (projeto interno, repositório privado).
+Hub web que reúne em um só lugar os dados do setor de Ressarcimento ao SUS (projeto interno).
 
-- **Integração de fontes:** Oracle (Data Lake), APIs da ANS (e-Protocolo/PERSUS), planilhas e pastas de rede em um único sistema web para ~30 usuários, no lugar de consultas SQL manuais, macros VBA e 5 sistemas diferentes
-- **Automação:** robôs agendados baixam, convertem (PDF → CSV) e carregam os relatórios da ANS. O que levava **8 horas de 10 assistentes (80 horas-pessoa por ciclo)** hoje fica pronto em **minutos**, com os dashboards atualizados
-- **Stack:** Python, FastAPI, Streamlit, SQL/Oracle, SQLAlchemy, Pandas, Plotly, Selenium, SQLite · cache compartilhado, perfis de acesso e 296 testes automatizados
+- **Funcionalidades:** dashboards, prazos, notificações, decisões e relatórios da ANS, integrando Oracle, APIs da ANS e planilhas
+- **Resultado:** download e leitura dos relatórios da ANS automatizados. O que levava **8 horas de 10 assistentes** hoje leva **minutos**
+- **Stack:** Python, FastAPI, Streamlit, SQL (Oracle), Pandas, Plotly e Selenium
 
 ### 🛠️ Stack
 
