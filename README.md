@@ -11,11 +11,11 @@ Trabalho com **análise, engenharia e automação de dados** no setor de saúde 
 - ✅ Governança e qualidade de dados: consistência, padronização e rastreabilidade
 - 🎓 Tecnólogo em ADS (Anhanguera / Pitágoras Ampli) | Pós-graduando em **Engenharia de Dados** (UPF)
 
-### 🚀 Projeto em destaque: Central RESSUS
+### 🚀 Projeto em destaque: hub de dados do Ressarcimento ao SUS
 
-Hub web que reúne em um só lugar os dados do setor de Ressarcimento ao SUS (projeto interno).
+Hub web interno de dados e operação do setor de Ressarcimento ao SUS.
 
-- **Funcionalidades:** dashboards, prazos, notificações, decisões e relatórios da ANS, integrando Oracle, APIs da ANS e planilhas
+- **Funcionalidades:** dashboards, prazos, notificações, decisões e relatórios regulatórios, integrando Oracle, APIs da ANS e planilhas
 - **Resultado:** download e leitura dos relatórios da ANS automatizados. O que levava **8 horas de 10 assistentes** hoje leva **minutos**
 - **Stack:** Python, FastAPI, Streamlit, SQL (Oracle), Pandas, Plotly e Selenium
 
