@@ -1,44 +1,51 @@
-<h2 align="left">Bem-vindo ao meu perfil! 👋</h2>
+# Olá, eu sou o Lucas 👋
 
-### Sobre mim
+### Analista de Dados Pleno | Engenharia de Dados
 
-<p align="left">🎓 Formação: Análise e Desenvolvimento de Sistemas.<br>💼 Experiência: Vivência profissional no meio administrativo, com foco em rotinas de BackOffice e análise de orçamentos.<br>📊 Habilidades em BI: Desenvolvimento de dashboards usando Power BI.<br>🛠 Manipulação de Dados: Extração, transformação e limpeza de dados para apoiar decisões estratégicas.<br>🐍 Programação: Automatização de tarefas e processos utilizando Python.</p>
+Trabalho com **análise, engenharia e automação de dados** no setor de saúde suplementar: da extração em bancos relacionais até a entrega de dados confiáveis para a tomada de decisão.
 
-### Habilidades Técnicas
+- 💼 Analista de Dados Pleno na **Hapvida**, com liderança técnica em frentes de analytics e engenharia de dados
+- 🔄 Pipelines **ETL/ELT**, integração de **APIs** (ANS) e automação de processos com **Python**
+- 🗄️ **SQL** avançado em **Oracle**, PostgreSQL e MySQL: modelagem de dados, Materialized Views, validação e reconciliação de bases
+- 📊 Dashboards e KPIs regulatórios em **Power BI** e Power Query
+- ✅ Governança e qualidade de dados: consistência, padronização e rastreabilidade
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas | Pós-graduando em **Engenharia de Dados**
 
-<p align="left">📊 Power BI: Desenvolvimento de dashboards interativos e informativos.<br>🐍 Python: Criação de scripts para automação de processos e análise de dados.<br>🗂️ Excel: Análise de dados, criação de planilhas e elaboração de orçamentos.<br>🌐 SQL: Consultas e manipulação de bases de dados.<br>⛏️ ETL (Extração, Transformação e Carga de Dados): Processos de limpeza e transformação de dados.</p>
+### 🛠️ Stack
 
-###
+**Linguagens**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-</div>
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### Contatos
+**Bancos de dados**
 
-<div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="https://www.linkedin.com/in/lucasvrib/"  />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="lucasvrib@gmail.com"  />
-  </div>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-###
+**Dados e automação**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**BI e visualização**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Qlik](https://img.shields.io/badge/QlikView-009848?style=flat-square&logo=qlik&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvrib/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasvrib@gmail.com)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasvrib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasvrib&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="Linguagens mais usadas" />
 </div>
-
-###
